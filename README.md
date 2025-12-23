@@ -3,7 +3,7 @@
 A modern, responsive web application enabling team members to recognize and appreciate each other's contributions. Built with **Next.js** and **React**.
 
 ![Kudos App Screenshot](https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80) 
-*(Note: Replace with actual screenshot)*
+
 
 ## 🚀 Features
 
